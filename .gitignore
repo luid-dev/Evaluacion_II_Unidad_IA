@@ -1,0 +1,11 @@
+# Entorno virtual y dataset descargado (se descarga automáticamente con torchvision)
+.venv/
+data/
+
+# Python / Jupyter
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Sistema
+.DS_Store
